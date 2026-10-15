@@ -34,7 +34,7 @@ const GUARANTEES: readonly GuaranteeItem[] = [
     id: "payments",
     title: "Pago Flexible y Seguro",
     description:
-      "Aceptamos efectivo en el plantel o transferencia bancaria. Datos proporcionados solo por chat.",
+      "Aceptamos pagos en persona o transferencia bancaria. Datos proporcionados solo por chat.",
     icon: Wallet,
   },
 ];
@@ -72,7 +72,7 @@ export default function HeroSection() {
             id="hero-heading"
             className="mt-6 max-w-3xl text-3xl font-semibold tracking-tight text-balance text-zinc-950 sm:text-5xl md:text-6xl dark:text-zinc-50"
           >
-            Resolución académica y técnica con precisión de ingeniería.
+           Resolución académica y técnica con precisión profesional.
           </h1>
 
           <p className="mt-5 max-w-2xl text-base leading-relaxed text-zinc-600 sm:text-lg dark:text-zinc-300">
