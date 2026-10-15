@@ -38,7 +38,7 @@ export default function HeroSection() {
               Cotizar por WhatsApp
             </Link>
             <Link
-              href="/servicios"
+              href="/#servicios"
               className="inline-flex items-center justify-center gap-2 rounded-lg border border-zinc-200 bg-white px-5 py-3 text-sm font-medium text-zinc-900 transition-colors hover:bg-zinc-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-zinc-900 dark:border-zinc-800 dark:bg-zinc-950 dark:text-zinc-50 dark:hover:bg-zinc-900"
             >
               Ver servicios
